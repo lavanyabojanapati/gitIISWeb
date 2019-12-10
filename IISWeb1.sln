@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IISWeb1", "IISWeb1\IISWeb1.vbproj", "{E94CD89B-FAB4-4C3A-BC80-8ADBCCEC4F07}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IISWeb2", "IISWeb2\IISWeb2.vbproj", "{5F0FB81B-570B-4F97-9781-3EC966E84980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94CD89B-FAB4-4C3A-BC80-8ADBCCEC4F07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94CD89B-FAB4-4C3A-BC80-8ADBCCEC4F07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94CD89B-FAB4-4C3A-BC80-8ADBCCEC4F07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94CD89B-FAB4-4C3A-BC80-8ADBCCEC4F07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F0FB81B-570B-4F97-9781-3EC966E84980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F0FB81B-570B-4F97-9781-3EC966E84980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F0FB81B-570B-4F97-9781-3EC966E84980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F0FB81B-570B-4F97-9781-3EC966E84980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90A19DDB-7D1C-4B34-B95A-55443BD23159}
+	EndGlobalSection
+EndGlobal
